@@ -16,7 +16,7 @@
 
 export const blogs = [
   {
-    title: "Why Monsoon Is the Best time For Ayurvedic Treatment",
+    title: "Why Monsoon Is the Best time For Ayurvedic Treatment in Kerala",
     tag: "SEO · AEO",
     desc: "A look at how answer-engine optimization is reshaping content strategy for brands that want to be found by AI search tools.",
     content: `
